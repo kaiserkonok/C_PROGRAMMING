@@ -1,4 +1,4 @@
-// Implementation of queue
+// Implementation of queue Data Structure
 
 #include <stdio.h>
 #include <stdlib.h>
